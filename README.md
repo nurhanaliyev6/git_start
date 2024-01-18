@@ -11,4 +11,4 @@ git rebase [branch] -> from main to your branch
 
 git merge [alias]/[branch] -> from branch to main
 
-git pull-> getting from remote to local
+git pull origin main-> getting from remote to local main
